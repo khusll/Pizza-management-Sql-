@@ -1,5 +1,5 @@
 # Pizza-management-Sql-
-this is my pizza sales analysis project this i fired queries like
+this is my pizza sales analysis project in this project i fired queries like
 
 Retrieve the total number of orders placed.
 Identify the highest-priced pizza.
